@@ -1,0 +1,17 @@
+
+# Python
+__pycache__/
+*.pyc
+
+# Data
+data/tiny-imagenet-200/
+
+# Models
+outputs/checkpoints/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+
